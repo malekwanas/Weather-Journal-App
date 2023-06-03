@@ -41,4 +41,3 @@ Special thanks to Udacity for providing the project prompt and guidance.
 
 ---
 
-By following the above template, you can create a README file for your Weather-Journal App project. Customize the content and sections as needed, providing relevant information about your specific implementation and project details.
