@@ -32,7 +32,6 @@ app.get("/all", function (req, res) {
 //Creating a POST route
 app.post("/add", info);
 function info(req, res) {
-  console.log("ana henaaa", req);
   projectData["temprature"] = req.body.data.temprature;
   projectData["date"] = req.body.data.date;
   projectData["input"] = req.body.data.input;
